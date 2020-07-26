@@ -1,0 +1,17 @@
+/data/laravel-auth/staging/log/access.log {
+        rotate 12
+        weekly
+        missingok
+        notifempty
+        compress
+        delaycompress
+}
+
+/data/laravel-auth/staging/log/error.log {
+        rotate 12
+        weekly
+        missingok
+        notifempty
+        compress
+        delaycompress
+}
