@@ -1,7 +1,6 @@
 
 ## CI/CD Laravel
 
-![pipeline](https://github.com/zeroc0d3/cicd-laravel/cicd-laravel/badges/dev-master/pipeline.svg)
 ![license](https://img.shields.io/badge/license-Apache_2-blue)
 
 PoC Deployment Laravel with GitLab CI/CD or BitBucket CI/CD and Capistrano.
