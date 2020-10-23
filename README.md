@@ -1,6 +1,10 @@
 
 ## CI/CD Laravel
 
+Move to new repository inside [Deploy Laravel](https://github.com/zeroc0d3/deploy-laravel)
+
+---
+
 ![license](https://img.shields.io/badge/license-Apache_2-blue)
 
 PoC Deployment Laravel with GitLab CI/CD or BitBucket CI/CD and Capistrano.
