@@ -1,5 +1,9 @@
 
-## CI/CD Laravel
+## CI/CD Laravel [Depreciated]
+
+Move to new repository inside [Deploy Laravel](https://github.com/zeroc0d3/deploy-laravel)
+
+---
 
 ![license](https://img.shields.io/badge/license-Apache_2-blue)
 
